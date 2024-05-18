@@ -4,7 +4,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.rasool.example.entity.Product;
 /**
- * @author Rasool Malik Vempalli
+ * @author Suhas Siddaraj Tellatakula
  */
 public interface ProductRepository extends JpaRepository<Product,Integer> {
     Product findByName(String name);

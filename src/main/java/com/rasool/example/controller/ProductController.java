@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 /**
- * @author Rasool Malik Vempalli
+ * @author Suhas Siddaraj Tellatakula
  */
 @RestController
 public class ProductController {

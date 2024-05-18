@@ -3,7 +3,7 @@ package com.rasool.example;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
- * @author Rasool Malik Vempalli
+ * @author Suhas Siddaraj Tellatakula
  */
 @SpringBootApplication
 public class ProductManagementSystemExample {

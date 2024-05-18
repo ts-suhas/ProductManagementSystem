@@ -9,7 +9,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 /**
- * @author Rasool Malik Vempalli
+ * @author Suhas Siddaraj Tellatakula
  */
 @Data
 @AllArgsConstructor
